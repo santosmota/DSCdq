@@ -1,6 +1,6 @@
 # Frequency Adaptive Delayed Signal Cancellation Applied Directly to the dq Frames of Dual Current Controllers of Power Converters
 
-This repository contains the simulation and data files used in the manuscript "Simplified Frequency Adaptive Delayed SignalCancellation Applied Directly to the dq Frames ofDual Current Regulators of Power Converters" submmitted to IEEE Power Electronics Letters on August 2021.
+This repository contains the simulation and data files used in the manuscript "Simplified Frequency Adaptive Delayed Signal Cancellation Applied Directly in Rotating Reference Frame" submmitted to IEEE Power Electronics Letters on August 2021.
 
 Models simulated: MATLAB Version: 9.4.0.949201 (R2018a) Update 6
 
