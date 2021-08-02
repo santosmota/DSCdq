@@ -2,9 +2,9 @@
 
 This repository contains the simulation and data files used in the manuscript "Simplified Frequency Adaptive Delayed Signal Cancellation Applied Directly in the Rotating Reference Frame" submmitted to IEEE Power Electronics Letters on August 2021.
 
-Models simulated: MATLAB Version: 9.4.0.949201 (R2018a) Update 6
+MATLAB Version: 9.4.0.949201 (R2018a) Update 6
 
-The main files are organized as follows:
+The files are organized as follows:
 
 A *_Script.m runs the Simulink Model *.slx and produces a comma separated text file *_Raw.txt.
 
