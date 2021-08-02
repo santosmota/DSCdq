@@ -8,9 +8,9 @@ The main files are organized as follows:
 
 A *_Script.m runs the Simulink Model *.slx and produces a comma separated text file *_Raw.txt.
 
-Figure 1, 2: ShortPulse_Script.m, ShortPulse.slx, ShortPulse_Raw.txt
-Figure 3: Equivalency_Script.m, Equivalency.slx, Equivalency_Raw.txt
-Figure 4: FreqAdaptiveFFT.m, FreqAdaptiveFFT.slx, FreqAdaptiveFFT_Raw.txt
-Figure 5: FreqAdaptive.m, FreqAdaptive.slx, FreqAdaptive.txt
+- Figure 1, 2: ShortPulse_Script.m, ShortPulse.slx, ShortPulse_Raw.txt
+- Figure 3: Equivalency_Script.m, Equivalency.slx, Equivalency_Raw.txt
+- Figure 4: FreqAdaptiveFFT.m, FreqAdaptiveFFT.slx, FreqAdaptiveFFT_Raw.txt
+- Figure 5: FreqAdaptive.m, FreqAdaptive.slx, FreqAdaptive.txt
 
 The models use blocks from the library: DSCdq_Library.slx
