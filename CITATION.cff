@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Mota
+    given-names: Daniel dos Santos
+    orcid: https://orcid.org/0000-0002-3602-1036
+title: Frequency Adaptive Delayed Signal Cancellation Applied Directly to the Rotating Reference Frames of Dual-Sequence Current Controllers of Power Converters
+version: v0.1.0
+date-released: 2021-08-03
